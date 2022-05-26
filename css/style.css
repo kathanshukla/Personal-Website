@@ -1,0 +1,148 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 110px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    color: #66BFBF;
+}
+.h2tab{
+    font-size: 1.8rem;
+    margin-top: 0px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.h3tab{
+color:  #11999E;
+}
+.footer-link{
+    color:#11999E;
+}
+.top{
+    background-color: #E8F9FD;
+    padding-top: 100px;
+    position: relative;
+    line-height: 2;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+}
+.top-cloud{
+    position: absolute;
+    left:1000px;
+    top:45px;
+}
+.profile-pic{
+    padding-top: 20px;
+    width:200px;
+}
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 1.5;
+    line-height: 2;
+}
+.skill-1-img{
+    width:25%;
+    height:auto;
+    float: left;
+    padding-right: 30px;
+    
+
+}
+.skill-2-img{
+    width:25%;
+    height:auto;
+    float: right;
+    padding-left: 30px;
+
+}
+.profile{
+    margin-top: 50px;
+}
+.newh3{
+   color: #11999E;
+}
+.h2color{
+    color: #11999E;
+}
+
+.introtext{
+    display: inline-block;
+    width: 30%;
+}
+
+.hr{
+    border-style: dotted none none none;
+    border-color: #EAF6F6;
+    border-width: 10px;
+    width: 5%;
+}
+.skill-heading{
+    color: #66BFBF;
+   padding-top: 50px;
+}
+
+.get-int-touch{
+    color: #66BFBF;
+    padding-top: 50px; 
+    line-height: 2;
+}
+.git-dis{
+    color:#11999E;
+    line-height: 2;
+}
+.git-dis-2{
+width: 50%;
+margin: 0 auto;
+
+}
+.button{
+    background-color: #66BFBF;
+    height: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    width:8%;
+    padding: 5px;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color: rgb(149, 255, 149);
+}
+.btn{
+color: white;
+text-decoration: none;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 50px;
+    margin-bottom: 0; 
+    height: 150px;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    padding: 30px;
+}
+.footer-link:hover{
+    background-color:#EAF6F6;
+}
+.copyright{
+    margin-bottom: 0;
+    color: #EAF6F6;
+    padding-top: 20px;
+}
+
+.newspan{
+   position: relative;
+   top: 50px;
+}
